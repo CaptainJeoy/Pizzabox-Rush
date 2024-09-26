@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 5875307632849092865}
   - component: {fileID: 5875307632849092866}
   - component: {fileID: 5875307632849092867}
-  m_Layer: 8
+  m_Layer: 10
   m_Name: Tall Block
   m_TagString: Untagged
   m_Icon: {fileID: 0}

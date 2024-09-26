@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 8304951378650516672}
   - component: {fileID: 8304951378650516673}
   - component: {fileID: 8304951378650516674}
-  m_Layer: 8
+  m_Layer: 10
   m_Name: InclinedPlat (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -107,7 +107,7 @@ GameObject:
   - component: {fileID: 8304951378976289528}
   - component: {fileID: 8304951378976289529}
   - component: {fileID: 8304951378976289530}
-  m_Layer: 8
+  m_Layer: 10
   m_Name: InclinedPlat
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -199,7 +199,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8304951379184440371}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: BridgeObstacle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -235,7 +235,7 @@ GameObject:
   - component: {fileID: 8304951379279764356}
   - component: {fileID: 8304951379279764357}
   - component: {fileID: 8304951379279764358}
-  m_Layer: 8
+  m_Layer: 10
   m_Name: InclinedPlat (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
